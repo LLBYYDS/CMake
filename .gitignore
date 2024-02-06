@@ -33,3 +33,4 @@
 
 # CMake Files
 build/
+bin/

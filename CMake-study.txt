@@ -1,0 +1,5 @@
+CMake 笔记 : https://subingwen.cn/cmake/CMake-primer/
+CMake Command : 
+    0.cmake --version
+    1.cmake <CMakeLists.txt文件所在路径> -B <存放CMake中间文件的文件夹> -G <生成器名称>
+    2.cmake --build <存放CMake中间文件的文件夹>
